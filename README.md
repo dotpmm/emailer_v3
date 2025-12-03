@@ -42,7 +42,7 @@ uv sync
 Run the CLI:
 
 ```
-uv run main.py
+uv run src/main.py
 ```
 
 ## Notes
